@@ -1,1 +1,1 @@
-This is d.java
+This is d.java modified to check stash
